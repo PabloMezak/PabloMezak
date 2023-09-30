@@ -4,7 +4,7 @@
 - 👋 Hi, I’m @PabloMezak
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning ReactJs, React Native and Nodejs
-- 📫 How to reach me : @pablomezak.js Instagram
+- 📫 How to reach me : @pablomezak.ads Instagram
 
 <!---
 PabloMezak/PabloMezak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
