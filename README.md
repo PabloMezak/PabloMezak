@@ -3,7 +3,7 @@
 -  I Am Brazilian
 - 👋 Hi, I’m @PabloMezak
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning ReactJs, React Native and Nodejs
+- 🌱 I’m currently learning ReactJs, NextJs
 - 📫 How to reach me : @pablomezak.ads Instagram
 
 <!---
