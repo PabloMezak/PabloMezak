@@ -22,6 +22,6 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://img.shields.io/badge/-pablomezak-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/pablomezak.ads" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-pablomezak-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
