@@ -1,4 +1,4 @@
-## Hello my name is Pablo Mezak learn more about me below
+## Hi , I'm Pablo Mezak
 
 -  I Am Brazilian
 - 👋 Hi, I’m @PabloMezak
